@@ -9,7 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Steps :
 
 #1-) Essential Packages
 ```{r pack}
